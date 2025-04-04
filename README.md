@@ -136,7 +136,7 @@ travel_planner/
 │   └── date_utils.py
 │
 ├── main.py                 # Application entry point
-├── travel_planner_colab.ipynb # Colab notebook
+├── travel_planner_assistant_colab.ipynb # Colab notebook
 └── requirements.txt        # Project dependencies
 ```
 
