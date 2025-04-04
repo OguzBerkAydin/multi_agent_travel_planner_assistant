@@ -65,12 +65,6 @@ Run the Travel Planner with a query:
 python main.py --query "I'm planning a trip to Paris next weekend. Can you help me plan my trip?"
 ```
 
-Visualize the workflow (requires extra dependencies):
-
-```
-python main.py --query "I'm planning a trip to Paris next weekend." --visualize
-```
-
 ### Google Colab
 
 You can also run the Travel Planner in Google Colab:
