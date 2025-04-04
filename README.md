@@ -1,3 +1,11 @@
+<a target="_blank" href="https://colab.research.google.com/drive/1J8j67mo9Tysj4iuP-sN1piDhnlE9IL8d#scrollTo=sXQwm-ob9zs2">
+  <img src="https://www.tensorflow.org/images/colab_logo_32px.png" />Run in Google Colab
+</a>
+
+<a target="_blank" href="https://github.com/OguzBerkAydin/multi_agent_travel_planner_assistant/tree/main/travel_planner">
+  <img src="https://www.tensorflow.org/images/GitHub-Mark-32px.png" />View source on GitHub
+</a><br><br>
+
 # Travel Planner Assistant
 
 An AI-powered travel planning system that automatically creates comprehensive travel plans based on natural language requests. The system gathers information about destinations, including weather forecasts, hotel options, local attractions, and budget recommendations.
@@ -20,8 +28,6 @@ The Travel Planner uses a workflow of specialized agents built with LangChain, L
 Each step is handled by a specialized agent that focuses on a specific aspect of travel planning.
 
 ## Requirements
-
-- Python 3.8+
 - Required API keys:
   - Groq API Key (for LLM)
   - Tavily API Key (for search)
@@ -32,7 +38,7 @@ Each step is handled by a specialized agent that focuses on a specific aspect of
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/travel-planner.git
+   git clone https://github.com/OguzBerkAydin/multi_agent_travel_planner_assistant.git
    cd travel-planner
    ```
 
@@ -69,9 +75,15 @@ python main.py --query "I'm planning a trip to Paris next weekend." --visualize
 
 You can also run the Travel Planner in Google Colab:
 
-1. Open the `travel_planner_colab.ipynb` notebook in Google Colab
+1. Open the `travel_planner_assistant_colab.ipynb` notebook in Google Colab
 2. Follow the setup instructions to upload the code and set API keys
 3. Run the cells to generate travel plans
+
+Or you can go to the Colab directly 
+
+<a target="_blank" href="https://colab.research.google.com/drive/1J8j67mo9Tysj4iuP-sN1piDhnlE9IL8d#scrollTo=sXQwm-ob9zs2">
+  <img src="https://www.tensorflow.org/images/colab_logo_32px.png" />Run in Google Colab
+</a>
 
 ### Example Queries
 
