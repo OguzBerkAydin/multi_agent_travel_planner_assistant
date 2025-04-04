@@ -25,6 +25,8 @@ The Travel Planner uses a workflow of specialized agents built with LangChain, L
 
 1. **Extract City** → **Extract Date** → **Get Weather** → **Get City Info** → **Search Hotels** → **Get Budget Info** → **Create Travel Plan**
 
+![alt text](examples/workflow.png)
+
 Each step is handled by a specialized agent that focuses on a specific aspect of travel planning.
 
 ## Requirements
