@@ -2,6 +2,10 @@
   <img src="https://www.tensorflow.org/images/colab_logo_32px.png" />Run in Google Colab
 </a>
 
+<a target="_blank" href="https://github.com/OguzBerkAydin/multi_agent_travel_planner_assistant/tree/main/travel_planner">
+  <img src="https://www.tensorflow.org/images/GitHub-Mark-32px.png" />View source on GitHub
+</a><br><br>
+
 # Travel Planner Assistant
 
 An AI-powered travel planning system that automatically creates comprehensive travel plans based on natural language requests. The system gathers information about destinations, including weather forecasts, hotel options, local attractions, and budget recommendations.
