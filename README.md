@@ -41,7 +41,7 @@ Each step is handled by a specialized agent that focuses on a specific aspect of
 1. Clone the repository:
    ```
    git clone https://github.com/OguzBerkAydin/multi_agent_travel_planner_assistant.git
-   cd travel-planner
+   cd multi_agent_travel_planner_assistant
    ```
 
 2. Install dependencies:
@@ -64,7 +64,7 @@ Each step is handled by a specialized agent that focuses on a specific aspect of
 Run the Travel Planner with a query:
 
 ```
-python main.py --query "I'm planning a trip to Paris next weekend. Can you help me plan my trip?"
+python -m travel_planner.main --query "I'm planning a trip to Paris next weekend. Can you help me plan my trip?"
 ```
 
 ### Google Colab
